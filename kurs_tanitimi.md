@@ -10,7 +10,7 @@ Kimler Katılmalı:  Yapay Zeka, makine öğrenmesi ve veri bilimi konularına i
 Eğitim Süresi __220__ Saattir.
 
 ## Ders Saatleri
-Dersler __Cumartesi-Pazar__ günleri saat __17:00-21:00__ saatleri arasında __4__ ’er saat olarak __(haftada 8 saat)__ yapılacaktır.
+Dersler __Cumartesi-Pazar__ günleri saat __10:00-14:00__ saatleri arasında __4__ ’er saat olarak __(haftada 8 saat)__ yapılacaktır.
 
 ## Eğitmen
 Kurs __Kaan ASLAN__ tarafından verilmektedir.
