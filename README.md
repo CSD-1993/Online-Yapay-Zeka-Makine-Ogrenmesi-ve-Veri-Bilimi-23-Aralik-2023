@@ -1,7 +1,7 @@
-# Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aral-k-2023
+# Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aralık-2023
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs 18 Haziran 2022 tarihinde başlayacaktır.
++ Kurs 23 Aralık 2023 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi `220` saattir. Dersler `Cumartesi- Pazar ` günleri `17:00 - 21:00` saatleri arasında yapılacaktır.
