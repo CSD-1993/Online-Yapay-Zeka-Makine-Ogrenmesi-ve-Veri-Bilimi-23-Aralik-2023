@@ -10,13 +10,13 @@ Kimler Katılmalı:  Yapay Zeka, makine öğrenmesi ve veri bilimi konularına i
 Eğitim Süresi __384__ Saattir.
 
 ## Ders Saatleri
-Dersler __Cumartesi-Pazar__ günleri saat __10:00-14:00__ saatleri arasında __4__ ’er saat olarak __(haftada 8 saat)__ yapılacaktır.
+Dersler __Cumartesi-Pazar__ günleri saat __10:00-14:00__ saatleri arasında __4__’er saat olarak __(haftada 8 saat)__ yapılacaktır.
 
 ## Eğitmen
 Kurs __Kaan ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursun toplam ücreti KDV dahil __28000 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __28000 TL__'dir. Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
+Kursun toplam ücreti KDV dahil __28500 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __28500 TL__'dir. Kurs ücretini __iki taksitte__ ödeyebilirsiniz.
 
 
 ## Kursa Kayıt
