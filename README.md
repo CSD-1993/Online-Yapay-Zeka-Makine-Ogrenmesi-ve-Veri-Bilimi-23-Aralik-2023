@@ -1,10 +1,10 @@
-# Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aralık-2023
+# Online-YapayZeka, Makine-Ogrenmesi ve Veri Bilimi-23-Aralık-2023
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 23 Aralık 2023 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `220` saattir. Dersler `Cumartesi- Pazar ` günleri `10:00 - 14:00` saatleri arasında yapılacaktır.
++ Toplam kurs süresi `380` saattir. Dersler `Cumartesi- Pazar ` günleri `10:00 - 14:00` saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil `5.800 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil `5.400` TL dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
