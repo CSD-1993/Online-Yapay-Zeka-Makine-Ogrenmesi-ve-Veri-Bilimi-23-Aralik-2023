@@ -33,7 +33,7 @@
   * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
   * Rassal Değişken Kavramı
   * Olasılık Dağılımları
-  * Çok Karşılaşılan Bazı Sürekli Dağılımlar
+  * Çok Karşılaşılan Bazı Sürekli ve Kesikli Dağılımlar
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
   * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
