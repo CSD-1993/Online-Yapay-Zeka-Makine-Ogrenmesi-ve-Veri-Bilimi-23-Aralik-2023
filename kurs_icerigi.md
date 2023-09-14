@@ -1,9 +1,9 @@
-# Online Yapay Zeka ve Makine Öğrenmesi Kursu (220 saat)
+# Online Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kursu (380 saat)
 
 * __Gözden Geçirme ve Hazırlık__
 
-   * Yapay Zeka ve Makine Öğrenmesi İçin Neden Python? 
-   * Yapay Zeka ve Makine Öğrenmesinde Diğer Programlama Dillerinin Avantajları ve Dezavantajları
+   * Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi İçin Neden Python? 
+   * Yapay Zeka, Makine Öğrenmesi ve Veri Biiliminde Diğer Programlama Dillerinin Avantajları ve Dezavantajları
    * Python Programlama Dilinin Yeniden Gözden Geçirilmesi
    * Scipy, Numpy, Pandas ve Matplotlib Kütüphanelerinin Yeniden Gözden Geçirilmesi
 
@@ -17,7 +17,9 @@
   * Makine Öğrenmesi Nedir?
   * Makine Öğrenmesinin Çeşitleri: Denetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme ve Pekiştirmeli (Reinforcement) Öğrenme Kavramları
   * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
-  * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
+  * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir?
+  * Veri Bilimi Nedir?
+  * Veri Bilimi ile Yapay Zeka ve Makine Öğrenmesi Arasındaki İlişki
   * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
 
 * __Biraz İstatistik__
