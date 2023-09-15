@@ -1,4 +1,4 @@
-# Online Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kursu (380 saat)
+# Online Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kursu (384 saat)
 
 * __Gözden Geçirme ve Hazırlık__
 
