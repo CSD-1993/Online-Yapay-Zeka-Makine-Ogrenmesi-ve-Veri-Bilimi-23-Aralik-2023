@@ -4,7 +4,7 @@
 + Kurs 23 Aralık 2023 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `384` saattir. Dersler `Cumartesi- Pazar ` günleri `10:00 - 14:00` saatleri arasında yapılacaktır. Kursumuz yaklaşık bir sene sürmektedir.
++ Toplam kurs süresi `384` saattir. Dersler `Cumartesi- Pazar ` günleri `10:00 - 14:00` saatleri arasında yapılacaktır. Kursumuz yaklaşık bir yıl sürmektedir.
 + Kursun toplam ücreti KDV dahil `30000 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil `27000` TL dir. Katılımcılar kurs ücretini dilerlerse `iki taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
