@@ -154,14 +154,14 @@
   * Kovaryans Kavramı 
   * Pearson ve Spearman korelasyon katsayıları
   * Python'da kovaryans ve korelasyon hesaplamaları
-  * Kovaryasn ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
+  * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
   * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
-  * Geriye Doğru Özellik İndirgemeler (Backward Feature Elimination)
+  * Geriye Doğru Özellik İndirgemeleri (Backward Feature Elimination)
   * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
   * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
   * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
