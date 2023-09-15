@@ -156,6 +156,18 @@
   * Python'da kovaryans ve korelasyon hesaplamaları
   * Korelasyon ve Nedensellik
   * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
+ 
+* __İstatistiksel Hipotez Testleri ve Uygulamaları__
+   
+  * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
+  * Parametrik Hipotez Testleri ve Parametrik Olmayan Hipotez Testleri
+  * Z Testi ve t Testi
+  * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
+  * Kovaryans Analizi
+  * F Testi
+  * Kay Kare (Chi Square) Testi
+  * Mann Whitney U Testi
+  * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi 
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
@@ -227,7 +239,7 @@
   
 * __Naive Bayes Yöntemiyle Sınıflandırma__
   
-  * Koşullu Olasılık Kavramı 
+  * Koşullu Olasılık Kavramı ve Bayes Teoremi
   * Naive Bayes Yönteminin Dayandığı Temeller
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
   * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
