@@ -27,10 +27,10 @@
   * İstatistiksel Ölçek Türleri 
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding Dönüştürmesi
-  * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik
+  * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik Kavramları
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
-  * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
+  * Python'da Betimsel İstatistik İle İlgili İşlemler Yapan Kütüphanelerin Yeniden Gözden Geçirilmesi
   * Rassal Değişken Kavramı
   * Olasılık Dağılımları
   * Çok Karşılaşılan Bazı Sürekli ve Kesikli Dağılımlar
@@ -63,7 +63,7 @@
   * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
   * Epoch ve Batch Kavramları
   * Sınama (Validation) İşleminin Anlamı
-  * Test Veri Kümesi ve Yapay Sinir Ağı Modelinin Test Edilmesi
+  * Test Veri Kümesi ile Yapay Sinir Ağı Modelinin Test Edilmesi
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
@@ -129,13 +129,15 @@
   * Kümeleme (Clustering) İşlemleri
   * K-Means Kümeleme Algoritması
   * Hiyerarşik Kümeleme Algoritmaları
-  * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Algoritmaları
+  * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
   * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmalar
   * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
 
 * __Biraz Lineer Cebir__
 
+  * Vektörler
   * Matrisler ve Determinantlar
+  * Matrisler Üzerinde Temel İşlemler
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
   
