@@ -1,4 +1,4 @@
- ### Sık Sorulan Sorular
+ ### Sıkça Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde Python bilgisine sahip olmalıyım?
 Kursa katılabilmeniz için temel düzeyde bir Python bilgisi yeterli olmaktadır. Ancak Python bilginiz ve deneyiminiz ne kadar iyiyse anlatılanları uygulamaya sokma konusunda o kadar avantaj sağlayacaksınız. Kursun başında hızlı bir biçimde Python Programlama Dili ile Numpy, Pandas ve Matplotlib kütüphaneleri gözden geçirilmektedir. 
