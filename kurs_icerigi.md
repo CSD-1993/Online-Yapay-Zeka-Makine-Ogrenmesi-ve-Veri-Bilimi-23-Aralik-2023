@@ -154,6 +154,7 @@
   * Kovaryans Kavramı 
   * Pearson ve Spearman korelasyon katsayıları
   * Python'da kovaryans ve korelasyon hesaplamaları
+  * Korelasyon ve Nedensellik
   * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
