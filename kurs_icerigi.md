@@ -173,7 +173,7 @@
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
 
- * __Graflar Üzerinde İşlemler ve Ağ Analizi__
+* __Graflar Üzerinde İşlemler ve Ağ Analizi__
   
   * Graf Veri Yapıları
   * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
