@@ -149,10 +149,12 @@
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
  
- * __Kovaryans ve Korelasyon Kavramları__
-  * Kovaryans Kavramı ve Anlamı
+* __Kovaryans ve Korelasyon Kavramları__
+   
+  * Kovaryans Kavramı 
   * Pearson ve Spearman korelasyon katsayıları
   * Python'da kovaryans ve korelasyon hesaplamaları
+  * Kovaryasn ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
