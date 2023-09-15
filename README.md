@@ -1,4 +1,4 @@
-# Online-YapayZeka, Makine-Ogrenmesi ve Veri Bilimi-23-Aralık-2023
+# Online-Yapay Zeka, Makine-Ogrenmesi ve Veri Bilimi-23-Aralık-2023
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 23 Aralık 2023 tarihinde başlayacaktır.
