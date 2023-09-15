@@ -182,7 +182,10 @@
   * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
   * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
-  * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar 
+  * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar
+  * Ağlarda Ölçümleme (Measuring Networks)
+  * Ağlarda Benzerlikler
+  * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
 
 * __İstatistiksel Yöntemlerle Regresyon İşlemleri__
 
