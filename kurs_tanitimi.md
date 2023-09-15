@@ -1,4 +1,4 @@
-## Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi
+## Online Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi Kursu - Kursun Genel Tanıtımı
 
 Bu kurs Python Programlama Dili ile Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ve veri bilimine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
 
