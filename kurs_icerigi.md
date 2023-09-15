@@ -162,7 +162,7 @@
   * İstatistiksel Hipotez Testlerinin Anlamı ve Uygulama Alanları
   * Parametrik Hipotez Testleri ve Parametrik Olmayan Hipotez Testleri
   * Z Testi ve t Testi
-  * F İstatistiği ve F Testi
+  * F Dağılımı, F İstatistiği ve F Testi
   * Varyans Analizi (Tek Faktörlü ve İki Faktörlü ANOVA)
   * Kovaryans Analizi
   * Kay Kare (Chi Square) Testi
