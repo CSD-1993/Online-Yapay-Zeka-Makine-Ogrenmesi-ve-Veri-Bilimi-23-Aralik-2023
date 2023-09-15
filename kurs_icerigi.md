@@ -167,7 +167,8 @@
   * F Testi
   * Kay Kare (Chi Square) Testi
   * Mann Whitney U Testi
-  * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi 
+  * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
+  * Yapısal Eşitlik Modellemesinin Temelleri
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
