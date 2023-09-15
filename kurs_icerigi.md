@@ -148,6 +148,12 @@
   * Matrisler Üzerinde Temel İşlemler
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Özvektörler
+ 
+ * __Kovaryans ve Korelasyon Kavramları__
+ * 
+  * Kovaryans Kavramı ve Anlamı
+  * Pearson ve Spearman korelasyon katsayıları
+  * Python'da kovaryans ve korelasyon hesaplamaları
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
