@@ -187,7 +187,7 @@
   * Ağlarda Benzerlikler
   * Sosyal Ağlar Üzerinde Temel Graf İşlemleri
 
-* __İstatistiksel Yöntemlerle Regresyon İşlemleri__
+* __İstatistiksel Yöntemlerle Gerçekleştirilen Regresyon İşlemleri__
 
   * Basit Doğrusal Regresyon 
   * Çoklu Doğrusal Regresyon
