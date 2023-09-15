@@ -20,13 +20,10 @@
   * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir?
   * Veri Bilimi Nedir?
   * Veri Bilimi ile Yapay Zeka ve Makine Öğrenmesi Arasındaki İlişki
-  * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
 
 * __Biraz İstatistik__
   
   * İstatistiksel Ölçek Türleri 
-  * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
-  * One Hot Encoding Dönüştürmesi
   * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik Kavramları
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
@@ -37,6 +34,17 @@
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
   * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
+
+* __Verilerin Kullanıma Hazır Hale Getirilmesi Süreci__
+
+  * Veri Kümelerinin Dosyalardan Okunması
+  * CSV Formatı ve Çeşitli Diyalekleri
+  * Veri Kümelerinin Veritabanlarından Okunması
+  * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
+  * One Hot Encoding Dönüştürmesi
+  * Eksik Verilerin Veri Kümesinden Çıkartılması
+  * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
+  * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği 
   
 * __Yapay Sinir Ağları__
 
@@ -168,6 +176,7 @@
   * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
+  * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar 
 
 * __İstatistiksel Yöntemlerle Regresyon İşlemleri__
 
@@ -188,15 +197,15 @@
 * __Destek Vektör Makineleri (Support Vector Machines)__
 
   * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri İle Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri Sınıflandırma İşlemleri
+  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon İşlemleri
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
 * __Karar Ağaçları (Decision Trees)__
 
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
-  * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
-  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon Problemlerinin Çözümü
+  * Karar Ağaçlarıyla Sınıflandırma İşlemleri
+  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
 * __Naive Bayes Yöntemiyle Sınıflandırma__
