@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aralik-2023/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aralik-2023/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Yapay-Zeka-ve-Makine-Ogrenmesi-23-Aralik-2023/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZwuduCoqT8pG9XxaqNsZmLX8elLKAG_6GOk)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwuduCoqT8pG9XxaqNsZmLX8elLKAG_6GOk)
