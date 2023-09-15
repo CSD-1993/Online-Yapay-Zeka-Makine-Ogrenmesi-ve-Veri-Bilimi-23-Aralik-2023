@@ -113,7 +113,7 @@
 
   * TensorFlow kütüphanesinin Tarihsel Gelişimi
   * TensorFlow Kütüphenesinin Kurulumu
-  * Tensor Nesnelerinin Oluşturulması
+  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
 
@@ -179,7 +179,7 @@
   * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
   * NetworkX Kütüphanesinin Kullanımı
-  * Çok Karşılaşılan Graf Algoritmaları (En Kıs Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
+  * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
   * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
   * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar 
