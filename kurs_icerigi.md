@@ -172,9 +172,15 @@
   * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemleri
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
+
+ * __Graflar Üzerinde İşlemler ve Ağ Analizi__
+  
   * Graf Veri Yapıları
   * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
-  * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
+  * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
+  * NetworkX Kütüphanesinin Kullanımı
+  * Çok Karşılaşılan Graf Algoritmaları (En Kıs Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
+  * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
   * Ağ Analizi (Network Analysis) İle İlgili Temel Kavramlar 
 
@@ -186,13 +192,13 @@
   * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
   * Lasso, Ridge ve Elastic Net Regresyonları
   * Polinomsal Regresyon
-  * Scikit-Learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
+  * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
   * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
   * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
   * Çok Sınıflı Lojistik Regresyon Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
-  * Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
+  * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
   
 * __Destek Vektör Makineleri (Support Vector Machines)__
 
@@ -213,7 +219,7 @@
   * Koşullu Olasılık Kavramı 
   * Naive Bayes Yönteminin Dayandığı Temeller
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
-  * Naive Bayes Yönteminin Scikit-Learn Kütüphanesi Kullanılarak Uygulanması
+  * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
@@ -224,7 +230,7 @@
   * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
-  * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
+  * Scikit-learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
   * XGBoost Kütüphanesinin Kullanımı
 
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
