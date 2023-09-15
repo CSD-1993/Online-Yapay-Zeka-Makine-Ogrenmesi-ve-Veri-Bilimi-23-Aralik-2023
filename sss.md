@@ -1,6 +1,11 @@
  Sık Sorulan Sorular
 
+### Kursa katılabilmem için hangi düzeyde Python Programlama Dili bilgisine sahip olmalıyım?
+Kursa katılabilmeniz için temel düzeyde bir Python bilgisi yeterli olmaktadır. Ancak Python bilginiz ve deneyiminiz ne kadar iyiyse anlatılanları uygulamaya sokma konusunda o kadar avantaj sağlayacaksınız. Kursun başında hızlı bir biçimde Python Programlama Dili, Numpy, Pandas ve Matplotlib kütüphaneleri gözden geçirilmektedir. 
 
+### Python bilmiyorum ancak SPSS gibi paket programları kullanıyorum. Kurusunuzu takip edebilir miyim?
+
+Kursumuzda konular uygulamalı biçimde ele alınmaktadır ve uygulama dili olarak Python kullanılmaktadır. Dolayısıyla SPSS gibi paket programları kullanıyor olmanız uygulama konusunda size bir avantaj sağlamayacaktır. Eğer Python bilginiz yoksa konuların teorik kısmını anlayabilirsiniz ancak kursta yazılan kodları anlayamayabilirsiniz. Tabii kursumuz uzun sürdüğünden dolayı bir yandan Python öğrenmeye de zaman ayırabilirsiniz.  
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
