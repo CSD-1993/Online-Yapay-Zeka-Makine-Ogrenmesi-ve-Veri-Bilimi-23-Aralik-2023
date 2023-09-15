@@ -269,7 +269,7 @@
   * Makine Öğrenmesi İçin Microsoft Azure Platformunun Kullanımı
   * Makine Öğrenmesi İçin Google Cloud Platformunun Kullanımı
   * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı 
-
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwuduCoqT8pG9XxaqNsZmLX8elLKAG_6GOk)
 
 
 
