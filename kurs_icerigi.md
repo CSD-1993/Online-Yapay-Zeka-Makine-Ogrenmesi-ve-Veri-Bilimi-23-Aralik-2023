@@ -194,20 +194,19 @@
 
   * Sürekli ve Ayrık Fonksiyonlar
   * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
-  * İkiye Bölme (Bisection) Yöntemi ile Kök Bulma
   * Newton-Raphson Yöntemi ile Kök Bulma
   * Türev Kavramı
   * SymPy Kütüphanesi ile Sembolik Türev İşlemleri
   * Sayısal Türev İşlemleri
   * Integral Kavramı
-  * SymPy Kütüphanesi ile Sembolik (Kapalı) Integral İşlemleri
+  * SymPy Kütüphanesi ile Sembolik Integral İşlemleri
   * Sayısal İntegral İşlemleri
     
 * __Matematiksel Optimizasyon İşlemleri__
 
   * Maksimizasyon ve Minimizasyon Problemleri
   * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
-  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemleri
+  * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemler
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
 
@@ -216,7 +215,7 @@
   * Graf Veri Yapıları
   * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Python'da Graf Problemleri İçin Kullanılan Kütüphaneler
-  * NetworkX Kütüphanesinin Kullanımı
+  * NetworkX ve python-igraph Kütüphanelerinin Kullanımı
   * Çok Karşılaşılan Graf Algoritmaları (En Kısa Yola Problemi, En Küçük Örten Ağaç Problemi, ...)
   * Graflarda Tur (Cycle) Problemleri, Hamilton ve Euler Turlu Problemler
   * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
@@ -236,7 +235,8 @@
   * Scikit-learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
   * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
-  * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
+  * İstatistiksel Lojistik Regresyon Problemlerinin Çözüm Yaklaşımları
+  * İstatistiksel Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
   * Çok Sınıflı Lojistik Regresyon Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin scikit-learn Kütüphanesi İle Çözümü
