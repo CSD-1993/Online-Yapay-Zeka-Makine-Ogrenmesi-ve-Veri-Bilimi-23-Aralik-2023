@@ -42,6 +42,7 @@
   * Veri Kümelerinin Veritabanlarından Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding Dönüştürmesi
+  * Eksik Veriler Üzerinde İşlemler
   * Eksik Verilerin Veri Kümesinden Çıkartılması
   * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
   * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği 
@@ -61,7 +62,7 @@
   * Aktivasyon Fonksiyonları ve Nöron Bağlantıları
   * Yapay Sinir Ağlarında Katmanlar
   * Yapay Sinir Ağlarında Yaygın Kullanılan Kütüphaneler ve Framework'ler
-  * Denetimli Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
+  * Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
   * Keras Kütüphanesinin Kısa Tarihi
   * Keras Kütüphanesinin Kurulumu
   * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
@@ -81,7 +82,7 @@
   * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
   * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
-  * Keras'ta Evrişimsel Sinir Ağları İle İşlemler
+  * Keras'ta Evrişimsel Sinir Ağları ile İşlemler
   * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
   * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
   * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
@@ -121,7 +122,7 @@
 
   * PyTorch Kütüphanesinin Kurulumu
   * PyToch Kütüphanesinin Temel Özellikleri
-  * Tensor Nesnelerinin Oluşturulması
+  * Tensor Nesnelerinin Oluşturulması ve Tensörler Üzerinde İşlemler
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
@@ -138,7 +139,7 @@
   * K-Means Kümeleme Algoritması
   * Hiyerarşik Kümeleme Algoritmaları
   * Yoğunkluk Tabanlı DBSCAN ve OPTICS Kümeleme Algoritmaları
-  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmalar
+  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmik Yöntemler
   * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
 
 * __Biraz Lineer Cebir__
