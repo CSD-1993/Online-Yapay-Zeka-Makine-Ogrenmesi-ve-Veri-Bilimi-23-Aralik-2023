@@ -154,7 +154,7 @@
    
   * Kovaryans Kavramı 
   * Pearson ve Spearman korelasyon katsayıları
-  * Python'da kovaryans ve korelasyon hesaplamaları
+  * Python'da Kovaryans ve Korelasyon Hesaplamaları
   * Korelasyon ve Nedensellik
   * Kovaryansın ve Korelasyonun Önemi ve Veri Biliminde Kullanım Alanları
  
@@ -169,10 +169,12 @@
   * Kay Kare (Chi Square) Testi
   * Mann Whitney U Testi
   * Doğrulayıcı (Confirmatory) ve Açımlayıcı (Exploratory) Faktör Analizi
-  * Yapısal Eşitlik Modellemesinin Temelleri
+  * Yapısal Eşitlik Modellemesi ve Yol Analizi (Path Analysis) Hakkında Temel Bilgiler
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
+  * Boyutsal Özellik İndirgemesi Nedir?
+  * Boyutsal Özellik İndirgemelerine Neden Gereksinim Duyulmaktadır?
   * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
@@ -180,6 +182,7 @@
   * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
   * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
   * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
+  * Diğer Boyutsal Özellik İndirgeme Yöntemleri Hakkında Temel Bilgiler
 
 * __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
   
@@ -187,6 +190,19 @@
   * Kümeleme Tabanlı Anomali Tespit Yöntemleri
   * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
 
+* __Sayısal (Nümerik) Analiz İşlemleri__
+
+  * Sürekli ve Ayrık Fonksiyonlar
+  * Doğrusal Olmayan (Nonlinear) Denklemlerde Kök Bulma
+  * İkiye Bölme (Bisection) Yöntemi ile Kök Bulma
+  * Newton-Raphson Yöntemi ile Kök Bulma
+  * Türev Kavramı
+  * SymPy Kütüphanesi ile Sembolik Türev İşlemleri
+  * Sayısal Türev İşlemleri
+  * Integral Kavramı
+  * SymPy Kütüphanesi ile Sembolik (Kapalı) Integral İşlemleri
+  * Sayısal İntegral İşlemleri
+    
 * __Matematiksel Optimizasyon İşlemleri__
 
   * Maksimizasyon ve Minimizasyon Problemleri
