@@ -107,7 +107,7 @@
   * Yüz Tanıma İşlemleri
   * Resimlerin Sınıflandırılması
   * Hareketli Görüntü Verileri Üzerinde İşlemler
-  * Yapay Sinir Ağı İle Resim Tanıma Uygulamaları
+  * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
   
 * __TensorFlow Kütüphanesinin Kullanımı__
