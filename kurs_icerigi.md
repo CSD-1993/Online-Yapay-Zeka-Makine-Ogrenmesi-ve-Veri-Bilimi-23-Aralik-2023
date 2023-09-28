@@ -98,7 +98,6 @@
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
   * Metinlerden Anlam Çıkarılması
-  * Metinsel Çıktı Üretimleri
   
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
@@ -109,7 +108,14 @@
   * Hareketli Görüntü Verileri Üzerinde İşlemler
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
-  
+
+* __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü Modeller__
+
+  * Generative Adversarial Ağlar (GANs)
+  * Dönüştürücü (Transformer) Ağlar
+  * GPT (GGenerative Pre-trained Transformer) Ağları
+  * Metinsel Çıktı Üretimleri
+    
 * __TensorFlow Kütüphanesinin Kullanımı__
 
   * TensorFlow kütüphanesinin Tarihsel Gelişimi
@@ -255,12 +261,13 @@
   * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
-* __Naive Bayes Yöntemiyle Sınıflandırma__
+* __Naive Bayes Yöntemiyle Sınıflandırma ve Bayes Ağları__
   
   * Koşullu Olasılık Kavramı ve Bayes Teoremi
   * Naive Bayes Yönteminin Dayandığı Temeller
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
   * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
+  * Bayes Ağları
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
