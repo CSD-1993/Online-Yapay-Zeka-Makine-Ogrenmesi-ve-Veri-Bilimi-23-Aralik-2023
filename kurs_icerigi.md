@@ -300,7 +300,7 @@
   * Stable-Baselines Kütüphanesinin Kullanımı
   * Keras-RL Kütüphanesinin Kullanımı
 
-* __Makine Öğrenmesi İçin Cloud Platformlarının Kullanılması__
+* __Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi İçin Cloud Platformlarının Kullanılması__
 
   * Cloud Platformlarının Özellikleri, Avantajları ve Dezavantajları
   * Makine Öğrenmesi İçin Amazon AWS SageMaker Platformunun Kullanımı
