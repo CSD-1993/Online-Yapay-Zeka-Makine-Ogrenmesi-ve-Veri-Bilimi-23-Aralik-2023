@@ -244,7 +244,7 @@
 * __Destek Vektör Makineleri (Support Vector Machines)__
 
   * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri Sınıflandırma İşlemleri
+  * Destek Vektör Makineleri İle Sınıflandırma İşlemleri
   * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon İşlemleri
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
