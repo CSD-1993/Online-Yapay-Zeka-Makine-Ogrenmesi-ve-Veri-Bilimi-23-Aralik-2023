@@ -113,7 +113,8 @@
 
   * Generative Adversarial Ağlar (GANs)
   * Dönüştürücü (Transformer) Ağlar
-  * GPT (GGenerative Pre-trained Transformer) Ağları
+  * Dönüştürücü Ağların Uygulama Alanları
+  * GPT (Generative Pre-trained Transformer) Ağları
   * Metinsel Çıktı Üretimleri
     
 * __TensorFlow Kütüphanesinin Kullanımı__
@@ -268,6 +269,7 @@
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
   * Naive Bayes Yönteminin scikit-learn Kütüphanesi Kullanılarak Uygulanması
   * Bayes Ağları
+  * Bayes Ağlarının Uygulama Alanları
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
