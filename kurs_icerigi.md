@@ -109,12 +109,13 @@
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
 
-* __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü Modeller__
+* __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
-  * Dönüştürücü (Transformer) Ağlar
+  * Dönüştürücü Ağlar
   * Dönüştürücü Ağların Uygulama Alanları
   * GPT (Generative Pre-trained Transformer) Ağları
+  * ChatGPT Uygulamasının Dayandığı Temel, Kullanım Alanları, Sınırlamaları ve Geleceği
   * Metinsel Çıktı Üretimleri
     
 * __TensorFlow Kütüphanesinin Kullanımı__
