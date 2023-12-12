@@ -2,9 +2,13 @@
 
 Bu kurs Python Programlama Dili ile Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ve veri bilimine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
 
-Ön Koşul: Bu kurs için katılımcıların temel düzeyde Python Programlama Dili bilgisine sahip olması gerekmektedir. 
+## Ön Koşul 
 
-Kimler Katılmalı:  Yapay Zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
+Bu kurs için katılımcıların temel düzeyde Python Programlama Dili bilgisine sahip olması gerekmektedir. 
+
+## Kimler Katılmalı
+
+Yapay Zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
 
 ## Eğitim Süresi
 Eğitim Süresi __384__ Saattir.
