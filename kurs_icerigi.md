@@ -263,8 +263,9 @@
   * Karar Ağaçlarıyla Lojistik Olmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
-* __Naive Bayes Yöntemiyle Sınıflandırma ve Bayes Ağları__
-  
+* __En Yakın Komuşuluk Yöntemiyle ve Naive Bayes Yöntemiyle Sınıflandırma ve Bayes Ağları__
+
+  * En Yakın Komşuluk (K-Nearest Neighbours) Yöntemiyle Sınıflandırma
   * Koşullu Olasılık Kavramı ve Bayes Teoremi
   * Naive Bayes Yönteminin Dayandığı Temeller
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
