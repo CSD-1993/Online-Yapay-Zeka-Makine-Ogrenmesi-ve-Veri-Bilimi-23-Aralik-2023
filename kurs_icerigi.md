@@ -137,7 +137,6 @@
 * __Theano Kütüphanesinin Kullanımı__
   
   * Theano Kütüphanesinin Kurulumu
-  * Theano Kütüphanesinin Kurulumu
   * Theano Kütüphanesinin Temel Özellikleri
   * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
 
