@@ -45,7 +45,8 @@
   * Eksik Veriler Üzerinde İşlemler
   * Eksik Verilerin Veri Kümesinden Çıkartılması
   * Eksik Verilerin Doldurulmasına (Imputation) İlişkin Yöntemler
-  * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği 
+  * Veri Kümesine Yararlı Sütunların Eklenmesi ve Özellik Mühendisliği
+  * Verilerin Çoğaltılması (Data Augmentation)
   
 * __Yapay Sinir Ağları__
 
@@ -103,12 +104,13 @@
 
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
+  * İşitsel ve Görsel Verilerin Çoğaltılması (Data Augmentation)
   * Yüz Tanıma İşlemleri
   * Resimlerin Sınıflandırılması
   * Hareketli Görüntü Verileri Üzerinde İşlemler
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
-
+  
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
   * Generative Adversarial Ağlar (GANs)
