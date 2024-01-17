@@ -101,7 +101,7 @@
   * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
   * Metinlerden Anlam Çıkarılması
-  * Metinler Üzerinde İşlemlerde Öğrenimin Aktarılması
+  * Metinsel İşlemlerde Öğrenimin Aktarılması
   
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
