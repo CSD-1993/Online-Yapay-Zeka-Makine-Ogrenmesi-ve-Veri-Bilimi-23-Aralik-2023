@@ -110,6 +110,8 @@
   * Hareketli Görüntü Verileri Üzerinde İşlemler
   * Yapay Sinir Ağları İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
+  * Öğrenimin Aktarılması (Transfer Learning) Sürecinin Temelleri
+  * Resim Tanıma ve Sınıflandırmada Öğrenimin Aktarılması
   
 * __Makine Öğrenmesinde Üretici (Generative) ve Dönüştürücü (Transformer) Modeller__
 
